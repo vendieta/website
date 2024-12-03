@@ -1,0 +1,24 @@
+
+.card-product {
+  width: 150px;
+  height: 250px;
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+.price-product {
+  display: block;
+  margin-top: 2.5px;
+  margin-bottom: 2.5px;
+}
+.img-product {
+  width: 138px;
+  height: 138px;
+  
+}
+
+.buy-product{
+  display: block;
+}
