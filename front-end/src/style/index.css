@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(232, 222, 209);
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+:root{
+  height: auto;
+  width: auto;
+  background-color: rgb(232, 222, 209);
+}
+
+
